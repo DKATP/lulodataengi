@@ -1,0 +1,6 @@
+requests
+datetime
+pandas
+json
+sqlalchemy
+seaborn
