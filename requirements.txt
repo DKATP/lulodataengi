@@ -5,3 +5,4 @@ json
 sqlalchemy
 seaborn
 matplotlib
+pandas_profiling
