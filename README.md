@@ -4,7 +4,7 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9JcsB5fT_qiNjDxiDCf-WDmfjBACr3omquuWYnyj7zdnpmk9YtDC9LdP8JMdrPZhdyG8&usqp=CAU)
 
 
-![image](C:/files/Users/Sepulveda/Documents/lulodataengi/model/lulo_diagram.png)
+![image](model/lulo_diagram.png)
 
 
 ##  Ejecución
