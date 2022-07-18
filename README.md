@@ -5,6 +5,7 @@
 
 
 ![image info](./model/lulo_diagram.png)
+![](https://drive.google.com/file/d/1ddXl-75Pjbx1hSCpe-3gWBEP7w7yF_PB/view?usp=sharing)
 
 ##  Ejecución
 ![](https://png.pngtree.com/element_our/png_detail/20181227/coding-on-screen-glyph-black-icon-png_292939.jpg)
