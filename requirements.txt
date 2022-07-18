@@ -4,3 +4,4 @@ pandas
 json
 sqlalchemy
 seaborn
+matplotlib
